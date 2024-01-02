@@ -5,5 +5,7 @@ If you want to add an image or a board to build on you can PR to this repo.
 CustomPiOS is a `Raspberry Pi <http://www.raspberrypi.org/>`_ and other ARM devices distribution builder. CustomPiOS opens an already existing image, modifies it and repackages the image ready to ship.
 
 ## Donate
+[![image](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=26VJ9MSBH3V3W&source=url)
+
 CustomPiOS is 100% free and open source and maintained by Guy Sheffer. If its helping your life, your organisation or makes you happy, please consider making a donation. It means I can code more and worry less about my balance. Any amount counts.
 Also many thanks to people contributing code.
